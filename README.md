@@ -9,6 +9,7 @@ English static homepage for AI, scientific discovery, and astronomy research.
 - `index.html`: content, education, research interests, and project links.
 - `styles.css`: layout, typography, and responsive styles.
 - `.nojekyll`: serve the static site without Jekyll processing.
+- `assets/portrait.webp`: optimized personal photograph, with location and camera metadata removed.
 
 GitHub Pages publishes the root of the `main` branch. Updates to these files trigger publication automatically.
 
